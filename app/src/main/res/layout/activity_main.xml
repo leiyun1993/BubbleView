@@ -7,15 +7,15 @@
     android:orientation="vertical"
     tools:context=".MainActivity">
 
-<!--    <com.yunlei.bubble.witget.BubbleScanView-->
-<!--        android:layout_width="match_parent"-->
-<!--        android:layout_height="200dp" />-->
-
-
-    <com.yunlei.bubble.witget.BubbleView
+    <com.yunlei.bubble.witget.BubbleScanView
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_marginTop="0dp"
-        android:background="@color/colorAccent"/>
+        android:layout_height="match_parent" />
+
+
+<!--    <com.yunlei.bubble.witget.BubbleView-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="match_parent"-->
+<!--        android:layout_marginTop="0dp"-->
+<!--        android:background="@color/colorAccent"/>-->
 
 </LinearLayout>
